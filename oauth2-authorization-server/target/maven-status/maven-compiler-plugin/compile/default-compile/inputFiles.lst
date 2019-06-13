@@ -1,0 +1,9 @@
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\service\OAuthUserDetailsService.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\domain\User.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\config\SecurityConfig.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\domain\Permission.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\dao\UserDetailsDao.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\Oauth2AuthenticationServerApplication.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\config\AuthorizationServerConfig.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\domain\Role.java
+c:\projects\internship\spring\oauth2-authorization-server\src\main\java\com\andersenlab\oauth2authenticationserver\domain\OAuthUserDetails.java
